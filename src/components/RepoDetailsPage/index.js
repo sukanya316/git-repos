@@ -14,7 +14,7 @@ const RepoDetailsPage = props => {
       {
         method: 'GET',
         headers: {
-          Authorization: `Bearer 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`,
+          Authorization: `Bearer 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`,
         },
       },
     )
