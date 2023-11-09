@@ -16,7 +16,7 @@ class ReposList extends Component {
     const options = {
       method: 'GET',
       headers: {
-        Authorization: `Bearer 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`,
+        Authorization: `Bearer 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`,
       },
     }
     const response = await fetch(
